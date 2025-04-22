@@ -1,0 +1,21 @@
+# Bytecode files
+__pycache__/
+*.pyc
+
+# SQLite database file
+jobtrackr.db
+
+# Virtual environment
+v-jobtrackr/
+.env/
+.venv/
+
+# OS-specific files
+.DS_Store
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Test cache
+*.pytest_cache/
