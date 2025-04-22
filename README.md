@@ -1,6 +1,7 @@
 # 🎯 JobTrackr - Job Application Tracker (CLI)
 
 **Track your job applications from the terminal using this clean, modular Python + SQLite CLI app.**
+This project was built to track my real-world job applications. It supports adding, editing, searching, and deleting entries, all backed by a local SQLite database. It taught me modular Python design, SQL query logic, and how to write clean, testable CLI apps.
 
 ---
 
